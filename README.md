@@ -1,2 +1,2 @@
-# Ebo_mammals_public
+# Ebo mammal trends
  R code to accompany paper
