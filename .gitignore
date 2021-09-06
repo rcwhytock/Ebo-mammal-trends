@@ -1,0 +1,27 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# GIS files
+*.shp
+*.sbn
+*.spj
+*.cpg
+*.dbf
+*.sbx
+*.xml
+*.zip
+*.tif
+*.xlsx
+*.docx
+*.qpj
+*.shx
+*.png
+*.pdf
+*.jpeg
+*.jpg
+*.qgz
+
+# Other files
+*.csv
